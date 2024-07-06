@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rat-and-maze/static/css/main.ce39fe87.css",
+    "main.js": "/rat-and-maze/static/js/main.2606ef77.js",
+    "static/js/453.9259aa62.chunk.js": "/rat-and-maze/static/js/453.9259aa62.chunk.js",
+    "static/media/ratImage.png": "/rat-and-maze/static/media/ratImage.bb6ddf11d563ff0ad233.png",
+    "static/media/RatCheese.png": "/rat-and-maze/static/media/RatCheese.499df9208e5f096dba16.png",
+    "static/media/cheese.png": "/rat-and-maze/static/media/cheese.e61903edbdf47c88e783.png",
+    "index.html": "/rat-and-maze/index.html",
+    "main.ce39fe87.css.map": "/rat-and-maze/static/css/main.ce39fe87.css.map",
+    "main.2606ef77.js.map": "/rat-and-maze/static/js/main.2606ef77.js.map",
+    "453.9259aa62.chunk.js.map": "/rat-and-maze/static/js/453.9259aa62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce39fe87.css",
+    "static/js/main.2606ef77.js"
+  ]
+}
