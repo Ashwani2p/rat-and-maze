@@ -2,7 +2,7 @@
   "name": "rat-and-maze",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ashwani2p.github.io/rat-and-maze/",
+  "homepage": "https://ashwani2p.github.io/rat-and-maze",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
