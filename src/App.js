@@ -116,7 +116,7 @@ function App() {
      <div className="modal">
        <div className="modal-content">
          <img src={winImage} alt="You Win" />
-         <p>You've found the cheese! Congratulations!</p>
+         <p>You've found the b cheese! Congratulations!</p>
          <button onClick={handleRestart}>Restart</button>
        </div>
      </div>
